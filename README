@@ -8,9 +8,6 @@ group final
         <title>Hello World</title>
     </head>
     <body>
-        <h1 style="color:lime;">Hello World</h1>
-        <p style="color:lime;">
-            Wussup.
-        </p>
+        
     </body>
 </html>
