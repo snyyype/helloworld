@@ -1,13 +1,18 @@
-# helloworld
-group final
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
         <title>Hello World</title>
     </head>
+<<<<<<< HEAD
+    <body style="background-color: black">
+        <h1 style="font-family:Impact; color: lime"><center>Hello World</center></h1>
+        <p style="color: lime">
+           Welcome.
+        </p>
+=======
     <body>
         
+>>>>>>> master
     </body>
 </html>
